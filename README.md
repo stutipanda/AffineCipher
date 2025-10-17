@@ -45,9 +45,9 @@ Where:
 
 AffineCipher/
 ├── src/
-│ └── affine.cpp # main source file
-├── README.md # documentation
-└── LICENSE # (optional) add MIT or your preferred license
+│ └── affine.cpp # main source file/
+├── README.md # documentation/
+└── LICENSE # (optional) add MIT or your preferred license/
 
 
 ---
