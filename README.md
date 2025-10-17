@@ -43,11 +43,10 @@ Where:
 
 ## 🧩 Project Structure
 
-AffineCipher/
-├── src/
-│ └── affine.cpp # main source file/
-├── README.md # documentation/
-└── LICENSE # (optional) add MIT or your preferred license/
+AffineCipher
+├── src
+│ └── affine.cpp 
+├── README.md  
 
 
 ---
