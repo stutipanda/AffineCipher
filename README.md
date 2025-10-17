@@ -109,7 +109,6 @@ Your support motivates further open-source contributions.
 2. Paste this into your repo’s `README.md`.  
 3. Commit + push — and you’ll have a professional-looking project ready for your profile 🚀  
 
-Would you like me to add a small **MIT License** file too (ready to paste)?
 ```
 
 
