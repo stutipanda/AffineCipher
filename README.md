@@ -60,9 +60,9 @@ Copy code
 ```bash
 git clone https://github.com/<your-username>/AffineCipher.git
 cd AffineCipher
-2️⃣ Compile the Code
-bash
-  g++ src/affine.cpp -o affine
-3️⃣ Run the Program
-bash
-  ./affine
+//2️⃣ Compile the Code
+g++ src/affine.cpp -o affine
+
+//3️⃣ Run the Program
+./affine
+
