@@ -55,7 +55,7 @@ AffineCipher
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/AffineCipher.git
+git clone https://github.com/stutipanda/AffineCipher.git
 cd AffineCipher
 ```
 2️⃣ Compile the Code
