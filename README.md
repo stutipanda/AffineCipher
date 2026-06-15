@@ -101,17 +101,6 @@ Your support motivates further open-source contributions.
 
 
 
-```
----
-
-✅ Just do this next:
-1. Replace `<your-username>` with your GitHub username.  
-2. Paste this into your repo’s `README.md`.  
-3. Commit + push — and you’ll have a professional-looking project ready for your profile 🚀  
-
-```
-
-
 
 
 
